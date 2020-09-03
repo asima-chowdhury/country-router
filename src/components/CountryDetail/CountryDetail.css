@@ -1,0 +1,30 @@
+.country-background{
+    background-image: url(../../images/white-bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    margin:0;
+    width: 100%;
+    height: 100%;
+}
+.country-detail{
+    margin:0 auto;
+    margin-top: 3%;
+    width:60%;
+    border-radius:5px;
+    box-shadow: 0 0 15px 15px lightgrey;
+    border:1px solid #ddd;
+    padding:30px;
+    text-align:center;
+}
+.country-detail h2{
+    color: #273c75;
+}
+.country-detail h3{
+    color:#3c6382
+    
+}
+.country-detail img{
+    height: 150px;
+    border:5px solid #ddd;
+}
